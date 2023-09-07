@@ -44,3 +44,9 @@
     background-color: #8a2b06;
     color: white;
   }
+
+  .OrderError {
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+  }
